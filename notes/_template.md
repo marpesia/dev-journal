@@ -1,6 +1,5 @@
 # [Short title of the problem or concept]
 
-**Date:** [date]
 **Context:** [one sentence on whre this came from (work, reading, an error)]
 
 ## The problem or question
